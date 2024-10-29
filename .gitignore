@@ -1,6 +1,9 @@
 # Compiler files
 cache/
 out/
+artifacts/
+lib/
+typechain-types/
 
 # Ignores development broadcast logs
 !/broadcast
@@ -12,3 +15,4 @@ docs/
 
 # Dotenv file
 .env
+node_modules

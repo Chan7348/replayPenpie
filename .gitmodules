@@ -4,3 +4,12 @@
 [submodule "lib/pendle-core-v2-public"]
 	path = lib/pendle-core-v2-public
 	url = https://github.com/pendle-finance/pendle-core-v2-public
+[submodule "lib/balancer-vault/lib/forge-std"]
+	path = lib/balancer-vault/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "lib/RegisterHelper/lib/forge-std"]
+	path = lib/RegisterHelper/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "lib/PenpieRegisterHelper/lib/forge-std"]
+	path = lib/PenpieRegisterHelper/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
